@@ -1,0 +1,7 @@
+{
+  "name": "Metro Facts",
+  "description": "Discover interesting facts about any metro or rail station worldwide using Google Maps and Search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
